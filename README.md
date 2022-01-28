@@ -1,4 +1,4 @@
-# Vaccination_coverage_analysis
+# Vaccination coverage analysis
 Analysis of Brazilian vaccination coverage in recent years and comparison with neighboring countries – Insigth Project (PT-BR)
 
 ## Objetivo
